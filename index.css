@@ -1,0 +1,26 @@
+
+body {background-color: 	#FFE4B5;}
+
+
+a {
+  font-size: 120%;
+}
+a:hover {
+  font-weight: inherit;
+}
+a:link {
+  color: ORANGE;
+}
+a:visited {
+  color:	#B0E0E6;
+}
+footer {
+  text-align: left;
+  padding-top: 50px;
+}
+.errormessage {
+  color:	#FF0000;
+}
+p {
+  margin-top: 0px;
+}
